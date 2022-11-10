@@ -1,0 +1,38 @@
+h1{
+    color: aliceblue;
+    font-weight: bolder;
+    text-shadow: 4px 5px 4px black;
+    text-align: center;
+}
+
+body{
+    background: url(img/spaco.png);
+    background-size: cover;
+
+}
+
+.cont{
+    display: flex;
+    background-color: rgb(99, 78, 99);
+    align-items: center;
+    align-content: center;
+    width: 400px;
+}
+
+div.foto1{
+    width: 400px;
+    height: 400px;
+    background-color: aqua;
+    background: url(img/IMG_2772.jpg);
+    background-size: cover;
+
+}
+
+div.foto2{
+    width: 400px;
+    height: 340px;
+    background-color: aqua;
+    background: url(img/IMG_2773.jpeg);
+    background-size: contain;
+
+}
